@@ -1,6 +1,6 @@
 # Delete All Except What In TXT
 
-![Delete All Except What In TXT](https://github.com/oqyh/Useful-Batch-Files/assets/48490385/569635a4-1b9e-476e-84a5-00b8de456cea)
+![Delete All Except What In TXT](https://github.com/oqyh/Useful-Batch-Files/assets/48490385/cf7d9cc4-f97f-4978-8804-642371985830)
 
 ## What Does That Mean?
 start.bat Will delete everything except files in delete-all-except.txt
