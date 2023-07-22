@@ -21,9 +21,7 @@ and make sure you include extension at end of file names (file.txt .. file.exe .
 ### Pressing start.bat
 
 ### Result will be 
- - b.txt
- - c.txt
-
+ - a.txt
 
 
 <details> 
