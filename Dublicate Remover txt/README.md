@@ -11,7 +11,7 @@ After that it will generate file name result_after_removing_dublicates.txt for r
 ## Example?
 
 
-### TXT Contains
+### dublicate_remover.txt Contains
  - a.txt
  - a.txt
  - b.txt
