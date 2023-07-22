@@ -1,0 +1,1 @@
+for /F "tokens=*" %%A in (delete-these-files.txt) do del "%%A"
