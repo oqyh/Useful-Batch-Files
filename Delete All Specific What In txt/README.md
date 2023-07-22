@@ -4,7 +4,7 @@
 
 
 ## What Does That Mean?
-start.bat Will delete what's in delete-these-files.txt
+start.bat Will delete what's in delete-these-files.txt only
 and make sure you include extension at end of file names (file.txt .. file.exe ... file.png)
 
 
