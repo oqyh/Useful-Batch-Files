@@ -7,17 +7,19 @@ start.bat Will delete everything except files in delete-all-except.txt
 
 
 ## Example?
-Folder Contains
+
+
+### Folder Contains
  - a.txt
  - b.txt
  - c.txt
 
-Added in delete-all-except.txt
+### Added in delete-all-except.txt
  - a.txt
 
-Pressing start.bat
+### Pressing start.bat
 
-Result 
+### Result will be 
  - b.txt
  - c.txt
 
