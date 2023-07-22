@@ -1,0 +1,6 @@
+start.bat
+delete-all-except.txt
+/*=========vvvvv Put Files After This Line vvvvv=========*/
+dontdelete1.png
+dontdelete2.zip
+dontdelete3.rar
