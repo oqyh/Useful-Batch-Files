@@ -1,9 +1,10 @@
-# Delete All Except What In TXT
+# Delete All Specific What In TXT
 
-![Delete All Except What In TXT](https://github.com/oqyh/Useful-Batch-Files/assets/48490385/569635a4-1b9e-476e-84a5-00b8de456cea)
+![Delete All Specific What In txt](https://github.com/oqyh/Useful-Batch-Files/assets/48490385/74d7f1ce-ead0-4034-b35e-ef5eeb3950ea)
+
 
 ## What Does That Mean?
-start.bat Will delete everything except files in delete-all-except.txt
+start.bat Will delete what's in delete-these-files.txt
 and make sure you include extension at end of file names (file.txt .. file.exe ... file.png)
 
 
@@ -15,7 +16,7 @@ and make sure you include extension at end of file names (file.txt .. file.exe .
  - b.txt
  - c.txt
 
-### Added in delete-all-except.txt
+### Added in delete-these-files.txt
  - a.txt
 
 ### Pressing start.bat
