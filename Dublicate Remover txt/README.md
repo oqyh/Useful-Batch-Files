@@ -1,29 +1,29 @@
-# Delete All Except What In TXT
+# Dublicate Remover TXT
 
-![Delete All Except What In TXT](https://github.com/oqyh/Useful-Batch-Files/assets/48490385/569635a4-1b9e-476e-84a5-00b8de456cea)
+![Dublicate Remover txt](https://github.com/oqyh/Useful-Batch-Files/assets/48490385/72507d9d-dcde-4f19-a15e-8b9d338051cd)
 
 ## What Does That Mean?
-start.bat Will delete everything except files in delete-all-except.txt
-and make sure you include extension at end of file names (file.txt .. file.exe ... file.png)
+start.bat Will start looking for dublicate file names given in dublicate_remover.txt 
+After that it will generate file name result_after_removing_dublicates.txt for result after removing dublicate file names
 
 
 ## Example?
 
 
-### Folder Contains
+### TXT Contains
+ - a.txt
  - a.txt
  - b.txt
  - c.txt
-
-### Added in delete-all-except.txt
- - a.txt
+ - c.png
 
 ### Pressing start.bat
 
 ### Result will be 
+ - a.txt
  - b.txt
  - c.txt
-
+ - c.png
 
 
 <details> 
