@@ -12,6 +12,6 @@ start.bat Will delete everything except files in delete-all-except.txt
   
   (1.0.0)
   
-    -Initial Release 
+* Initial Release 
     
 </details>
