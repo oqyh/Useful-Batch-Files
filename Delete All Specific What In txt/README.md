@@ -18,11 +18,11 @@ and make sure you include extension at end of file names (file.txt .. file.exe .
 
 ### Added in delete-these-files.txt
  - a.txt
+ - b.txt
 
 ### Pressing start.bat
 
 ### Result will be 
- - b.txt
  - c.txt
 
 
